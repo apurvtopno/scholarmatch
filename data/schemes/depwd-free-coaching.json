@@ -1,0 +1,38 @@
+{
+  "id": "depwd-free-coaching",
+  "name": "DEPwD Free Coaching Scholarship for Students with Disabilities",
+  "provider": "Department of Empowerment of Persons with Disabilities (DEPwD), Ministry of Social Justice and Empowerment, Government of India",
+  "official_url": "https://depwd.gov.in/",
+  "eligible_categories": null,
+  "max_family_income": 800000,
+  "min_percentage": null,
+  "levels": null,
+  "courses": null,
+  "states": null,
+  "gender": null,
+  "requires_disability": true,
+  "requires_minority": false,
+  "unchecked_criteria": [
+    "Must have a benchmark disability of at least 40% under the RPwD Act 2016, with a valid disability certificate and UDID card or enrolment number",
+    "Indian nationals only; Aadhaar-based authentication is required",
+    "Not more than two children with disabilities of the same parents may receive benefits",
+    "Cannot receive another scholarship or stipend at the same time",
+    "Must meet the educational requirement of the exam (passed or studying in Class XII, or Bachelor's degree completed or in final year)",
+    "Coaching must be for a covered exam, e.g. UPSC, State PSC, SSC, RRB, banking, insurance, PSU, JEE, NEET, CAT, CLAT, CUET, CMAT, CA-CPT, GATE, TET, UGC-NET, CSIR-UGC NET",
+    "Physical coaching only (minimum 16 hours a week); at least 70% monthly Aadhaar-based attendance is needed to receive the allowances",
+    "Available only once, and not together with another Central or State Government coaching scheme"
+  ],
+  "benefit": "Coaching fee paid to the institute (up to Rs 75,000 for UPSC/State PSC, JEE/NEET and GATE; up to Rs 40,000 for other covered exams), maintenance allowance Rs 4,000/month, disability allowance Rs 2,000/month, book allowance Rs 5,000 per course. About 1,000 slots a year, 30% reserved for girls.",
+  "deadline": null,
+  "documents": [
+    "Valid disability certificate issued by the competent authority",
+    "UDID card or UDID enrolment number",
+    "Aadhaar number or enrolment number",
+    "Aadhaar-linked bank account details",
+    "Academic certificates and marksheets",
+    "Income certificate",
+    "Class XII or graduation marksheet"
+  ],
+  "source_text": "PASTE THE EXACT ELIGIBILITY PASSAGE FROM THE DEPwD GUIDELINE (25 SEPTEMBER 2024) FOR THIS COMPONENT HERE",
+  "last_verified": null
+}

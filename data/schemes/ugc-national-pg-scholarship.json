@@ -1,0 +1,39 @@
+{
+  "id": "ugc-national-pg-scholarship",
+  "name": "National Scholarship for Postgraduate Studies",
+  "provider": "University Grants Commission (UGC), Government of India",
+  "official_url": "https://scholarships.gov.in",
+  "eligible_categories": null,
+  "max_family_income": null,
+  "min_percentage": null,
+  "levels": [
+    "PG"
+  ],
+  "courses": null,
+  "states": null,
+  "gender": null,
+  "requires_disability": false,
+  "requires_minority": false,
+  "unchecked_criteria": [
+    "Must be below 30 years of age on the date of admission to the first semester or year of the PG programme",
+    "Only for your first postgraduate degree; anyone who already holds a PG degree is not eligible",
+    "Must already be admitted to the first year of a regular, full-time PG programme at an eligible institution; open, distance, correspondence, private and part-time programmes are excluded",
+    "Integrated programmes receive the scholarship for the PG component only",
+    "Selection is by all-India merit; 30% of slots are reserved for women, and single girl children and one of twin or fraternal girl children get priority within those slots",
+    "Cannot receive another scholarship, fellowship, salary, stipend or paid appointment during the scholarship; if you already receive one you must declare it and give it up if selected",
+    "Aadhaar-linked, KYC-compliant bank account in your own name is required"
+  ],
+  "benefit": "Rs 15,000 per month for 10 months per year for two years (Rs 1,50,000 per year; Rs 3,00,000 maximum over two years). About 10,000 scholarships (or as decided by UGC) a year.",
+  "deadline": null,
+  "documents": [
+    "Recognized undergraduate degree certificate or marksheet",
+    "Proof of admission to the first year of a regular/full-time postgraduate programme",
+    "Aadhaar details",
+    "Aadhaar-linked KYC-compliant bank account in the student's own name",
+    "Caste/category certificate, if applicable",
+    "Single/twin/fraternal girl child certificate or affidavit, if applicable",
+    "Other eligibility documents as requested by the institution"
+  ],
+  "source_text": "UGC National Scholarship for Postgraduate Studies Guidelines (2021), including the special note on institutional eligibility for academic year 2026-27. Objective and benefit: 10,000 scholarships, or such number as decided by UGC, are available to Indian students pursuing postgraduate studies in India. Scholarship amount is Rs 15,000 per month for 10 months in a year for two years. Eligibility: (1) Available only for the first postgraduate degree programme; students who have already obtained a postgraduate degree are ineligible. (2) Applicants must already be admitted to the first year of a PG degree programme at an eligible university, college or institution. (3) Integrated programmes receive scholarship for the PG component only. (4) Applicants must be below 30 years of age on the date of admission to the first semester/year of the PG programme. (5) Single girl children and one of twin/fraternal girl children are eligible for priority within the women's reserved slots. A girl child with one or more brothers is not eligible for this special category. (6) Only regular/full-time PG programmes are eligible. Open, distance, correspondence, private and part-time programmes are excluded. (7) PG degree nomenclature and duration must comply with UGC Specification of Degrees Notification, 2014, as amended. Institutional eligibility: For academic year 2026-27, the special note states that the institutional eligibility criteria followed in 2025-26 may continue. Eligible institutions include universities/colleges/institutions under Section 2(f) of the UGC Act, deemed universities under Section 3, institutions fully funded by Central or State Governments and empowered to award degrees, and Institutions of National Importance. The original guidelines additionally specified valid NAAC accreditation for Section 2(f) and deemed universities. Institutions must have a valid AISHE code for NSP access. Reservation and selection: Selection is on an all-India merit basis, except for the special priority given to single/twin/fraternal girl children. 30% of slots are reserved for women. Government of India reservation policy applies. 50% of slots within each category are earmarked for Arts, Humanities, Social Sciences, Law, Management and related disciplines; the remaining 50% are for Science, Engineering and Technology, Medical, Technical, Agriculture and Forestry programmes. Tie-breaking may consider undergraduate marks and subsequently Class XII marks. Other scholarship restrictions: A student may receive only one scholarship at a time and cannot receive another scholarship, fellowship, salary, stipend, emoluments or paid appointment during the scholarship tenure. Students already receiving another scholarship may apply but must declare it and relinquish the previous benefit if selected. Aadhaar and banking: The student's bank account must be Aadhaar-linked and verified for direct payment. The account must be a separate KYC-compliant account in the student's own name. Application: Applications are invited annually through the National Scholarship Portal. Incomplete applications are rejected. Students submit supporting documents to their institutions for verification; certificates and affidavits are not required to be uploaded by students on NSP at initial application. Institutions verify eligibility and upload verification certificates. Renewal: Scholarship is renewed for the second year after successful completion of the first year, subject to good conduct and prescribed attendance. Students must apply for renewal through NSP. Failure to progress to the next class/level results in forfeiture. Changing the course or institution is not permitted and results in forfeiture from the date of change. Disbursement: UGC transfers the scholarship through Direct Benefit Transfer (DBT) using PFMS. Misleading information or fraudulent applications may result in cancellation, recovery of the scholarship with interest and other action.",
+  "last_verified": null
+} 

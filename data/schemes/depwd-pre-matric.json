@@ -1,0 +1,38 @@
+{
+  "id": "depwd-pre-matric",
+  "name": "DEPwD Pre-Matric Scholarship for Students with Benchmark Disabilities",
+  "provider": "Department of Empowerment of Persons with Disabilities (DEPwD), Ministry of Social Justice and Empowerment, Government of India",
+  "official_url": "https://depwd.gov.in/",
+  "eligible_categories": null,
+  "max_family_income": 250000,
+  "min_percentage": null,
+  "levels": [
+    "School"
+  ],
+  "courses": null,
+  "states": null,
+  "gender": null,
+  "requires_disability": true,
+  "requires_minority": false,
+  "unchecked_criteria": [
+    "Must have a benchmark disability of at least 40% under the RPwD Act 2016, with a valid disability certificate and UDID card or enrolment number",
+    "Indian nationals only; Aadhaar-based authentication is required",
+    "Not more than two children with disabilities of the same parents may receive benefits",
+    "Cannot receive another scholarship or stipend at the same time",
+    "Must be a regular full-time student in Class IX or X at a government or recognized school",
+    "Scholarship for a class is available for only one year"
+  ],
+  "benefit": "Maintenance allowance Rs 800/month (hosteller) or Rs 500/month (day scholar); disability allowance Rs 4,000/year (visual impairment or intellectual disability) or Rs 2,000/year (other); book allowance Rs 1,000/year. About 25,000 slots a year including renewals, 50% reserved for girls.",
+  "deadline": null,
+  "documents": [
+    "Valid disability certificate issued by the competent authority",
+    "UDID card or UDID enrolment number",
+    "Aadhaar number or enrolment number",
+    "Aadhaar-linked bank account details",
+    "Academic certificates and marksheets",
+    "Parent or guardian income certificate",
+    "Bonafide certificate from school"
+  ],
+  "source_text": "PASTE THE EXACT ELIGIBILITY PASSAGE FROM THE DEPwD GUIDELINE (25 SEPTEMBER 2024) FOR THIS COMPONENT HERE",
+  "last_verified": null
+}

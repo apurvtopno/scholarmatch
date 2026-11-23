@@ -1,0 +1,32 @@
+{
+  "id": "aicte-saksham-degree",
+  "name": "AICTE Saksham Scholarship Scheme for Specially-Abled Students (Degree)",
+  "provider": "All India Council for Technical Education (AICTE), Ministry of Education, Government of India",
+  "official_url": "https://scholarships.gov.in",
+  "eligible_categories": null,
+  "max_family_income": 800000,
+  "min_percentage": null,
+  "levels": ["UG"],
+  "courses": null,
+  "states": null,
+  "gender": null,
+  "requires_disability": true,
+  "requires_minority": false,
+  "unchecked_criteria": [
+    "Must have a disability of at least 40% (disability certificate required)",
+    "Must be admitted to the first year of a degree course in an AICTE-approved institution, or to the second year through lateral entry",
+    "The gap between passing the qualifying exam and admission must not exceed two years",
+    "Must not receive any other financial assistance, scholarship or stipend during the course"
+  ],
+  "benefit": "Rs 50,000 per year for up to 4 years (3 years for lateral entry). No additional grant for hostel or medical charges.",
+  "deadline": null,
+  "documents": [
+    "Disability certificate confirming at least 40% disability",
+    "Family income certificate issued by State/UT Government",
+    "Qualifying examination marksheet",
+    "Admission proof",
+    "Bank account details"
+  ],
+  "source_text": "PASTE THE EXACT ELIGIBILITY PASSAGE FROM THE SAKSHAM GUIDELINE PDF HERE",
+  "last_verified": null
+}

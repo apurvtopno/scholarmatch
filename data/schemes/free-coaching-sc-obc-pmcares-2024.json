@@ -1,0 +1,36 @@
+{
+  "id": "free-coaching-sc-obc-pmcares-2024",
+  "name": "Scheme of Free Coaching for SCs, OBCs and Beneficiaries of PM CARES Children Scheme",
+  "provider": "Ministry of Social Justice and Empowerment",
+  "official_url": "https://socialjustice.gov.in",
+  "eligible_categories": ["SC", "OBC"],
+  "max_family_income": 800000,
+  "min_percentage": null,
+  "levels": null,
+  "courses": null,
+  "states": null,
+  "gender": null,
+  "requires_disability": false,
+  "requires_minority": false,
+  "unchecked_criteria": [
+    "PM CARES Children Scheme beneficiaries of any category can also apply under this scheme; confirm the route in the official guidelines",
+    "Coaching must be for a covered exam (UPSC, State Civil Services, SSC, RRB, Banking, Insurance, PSU, JEE, NEET, CAT, CMAT, CLAT, GRE, GMAT, SAT, IELTS, TOEFL, IES, CA-CPT, GATE, Commercial Pilot Licence, NDA, CDS)",
+    "Generally at least 50% marks in Class 10 (for Class 12-level exams) or Class 12 (for undergraduate-level exams); confirm the exact rule for your exam",
+    "Selection is through empanelled Central Universities; Aadhaar-based attendance is mandatory",
+    "A maximum of two benefits are permitted under applicable coaching schemes"
+  ],
+  "benefit": "Free coaching with fee limits by course (e.g. up to Rs 75,000 for UPSC/State Civil Services, JEE/NEET, IES, CA-CPT/GATE; Rs 40,000 SSC/RRB; Rs 50,000 Banking/Insurance/PSU/CLAT and CAT/CMAT; Rs 35,000 GRE/GMAT/SAT/IELTS/TOEFL; Rs 30,000 Commercial Pilot Licence; Rs 20,000 NDA/CDS), plus Rs 4,000 monthly stipend for up to 12 months and a Rs 15,000 incentive for eligible civil services Mains qualifiers appearing for interview. About 3,500 seats a year.",
+  "deadline": null,
+  "documents": [
+    "Aadhaar card",
+    "Aadhaar-linked bank account details",
+    "Caste certificate (SC/OBC applicants)",
+    "Income certificate (SC/OBC applicants)",
+    "PM CARES beneficiary certificate and ID, where applicable",
+    "Class 10 marksheet",
+    "Class 12 marksheet",
+    "Graduation marksheet, where applicable"
+  ],
+  "source_text": "PASTE THE EXACT ELIGIBILITY PASSAGE FROM THE FREE COACHING SCHEME GUIDELINE HERE",
+  "last_verified": null
+}

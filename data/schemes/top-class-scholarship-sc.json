@@ -1,0 +1,43 @@
+{
+  "id": "top-class-scholarship-sc",
+  "name": "Scheme of Top Class Scholarship for SC Students",
+  "provider": "Ministry of Social Justice and Empowerment, Government of India",
+  "official_url": "https://scholarships.gov.in",
+  "eligible_categories": [
+    "SC"
+  ],
+  "max_family_income": 800000,
+  "min_percentage": null,
+  "levels": [
+    "UG",
+    "PG"
+  ],
+  "courses": null,
+  "states": null,
+  "gender": null,
+  "requires_disability": false,
+  "requires_minority": false,
+  "unchecked_criteria": [
+    "Must be admitted to a full-time prescribed course in an institution notified under the scheme (IIMs, IITs, IIITs, AIIMS, NITs, NIFTs, NIDs, IHMs, NLUs, other approved Central institutions, or institutions in the NAAC A++/A+, NIRF top-100 or Institutions of National Importance lists)",
+    "Fresh scholarships go only to first-year students; second-, third- and fourth-year students cannot get a fresh scholarship",
+    "Selection depends on the slots allocated to the institution and on merit; 30% of slots are reserved for SC girl students",
+    "A maximum of two siblings in a family can get the scholarship; an affidavit that you are not the third sibling is required",
+    "Cannot receive another similar Central or State Government scholarship",
+    "Changing your institution after selection ends the scholarship",
+    "Institutional verification deadline is 31 October each year, or another date set by the DBT Mission"
+  ],
+  "benefit": "Full tuition fee and non-refundable charges, subject to a maximum of Rs 2,00,000 per annum for private sector institutions. Academic allowance of Rs 86,000 in the first year and Rs 41,000 in each subsequent year. Academic allowance covers living expenses, books, stationery, computer/laptop and accessories.",
+  "deadline": null,
+  "documents": [
+    "Caste certificate proving Scheduled Caste status",
+    "Family income certificate (up to Rs 8 lakh per annum)",
+    "Admission letter or proof of admission to a notified institution",
+    "Entrance examination rank or merit details",
+    "Fee details issued by the institution",
+    "Bank account details",
+    "Aadhaar details",
+    "Affidavit declaring that the student is not the third sibling availing this scholarship"
+  ],
+  "source_text": "Scheme Guidelines of Scheme of Top Class Scholarship for SC Students, applicable from 2025-26. Objective: To promote quality education among Scheduled Caste students by providing financial support for studies beyond Class XII. The scheme operates in institutions notified by the Ministry of Social Justice and Empowerment for FY 2024-25 to 2025-26. Eligibility: (1) Applicant must belong to the Scheduled Caste category. (2) Total annual family income from all sources must not exceed Rs 8,00,000. (3) Applicant must secure admission to a full-time prescribed course in an institution notified under the scheme. (4) Fresh scholarships are awarded only to first-year students; students already in their second, third or fourth year cannot receive a fresh scholarship. (5) Selection is subject to the number of scholarship slots allocated to the institution and inter-se merit based on the prescribed admission criteria. (6) Where eligible applicants exceed available slots, preference is given to higher-ranked students. In case of a tie for the last slot, the student with lower family income receives preference. (7) 30% of institution-allocated slots are reserved for eligible SC girl students according to inter-se merit. Unfilled slots may be transferred to eligible SC boys. Girl students selected through the overall SC merit list are excluded from this additional 30% reservation calculation. (8) Scholarship benefits are limited to a maximum of two siblings in a family. The student must submit an affidavit confirming that they are not the third sibling availing the scheme. (9) Students must maintain satisfactory academic performance and progress to the next semester/class. Scholarship is terminated if a student fails to get promoted; it is released again suo moto after promotion. (10) Changing the institution after selection results in discontinuation and makes the student ineligible for further benefits under this scheme. Institution eligibility: Eligible institutions include IIMs, IITs, IIITs, AIIMS, NITs, NIFTs, NIDs, IHMs, NLUs and other Central Government institutions recommended or approved for empanelment. Other institutions must be included in the applicable NAAC A++/A+ accredited institution list, Top 100 NIRF institution list or Institutions of National Importance list, subject to scheme requirements. The official notified institution list and allocated scholarship slots determine eligibility. Financial assistance: Full tuition fees and non-refundable charges are covered. For private sector institutions, tuition and non-refundable charges are capped at Rs 2,00,000 per annum per student. Academic allowance is Rs 86,000 in the first year and Rs 41,000 in every subsequent year. It covers living expenses, books, stationery, computer/laptop of a reputed brand and accessories such as UPS and printer. Payment: Scholarship becomes payable after admission is secured and classes commence. Tuition fees, other non-refundable charges and academic allowance are transferred directly to students through DBT. Students must deposit the received fee amount with the institution immediately and within one month of receipt. Application: Students apply through the National Scholarship Portal and upload their income certificate, caste certificate, bank account details, admission rank and fee details. Institutions verify applications and forward eligible applications to the Ministry. The institutional verification deadline is 31 October every year or another date prescribed by the DBT Mission. Income documentation: For self-employed parents/guardians, an income certificate from a revenue officer not below the rank of Tehsildar is required. For employed parents/guardians, an employer-issued income certificate is required. Additional income sources must be covered by a consolidated revenue officer certificate. Renewal: Existing beneficiaries continue to receive assistance until course completion subject to satisfactory performance, promotion and other scheme conditions. Students joining subsequent years must apply for renewal, and institutional verification confirms promotion and admission to the next class. Other scholarship restriction: Selected students cannot avail benefits from another similar scholarship scheme of the Central or State Government. Funding: The scheme is funded by the Ministry of Social Justice and Empowerment. The overall allocation for 2025-26 is 4,500 scholarships, including 1,900 tentative fresh scholarship slots. The number of scholarships is subject to institutional allocation and available funds.",
+  "last_verified": null
+}

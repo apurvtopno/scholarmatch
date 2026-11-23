@@ -1,0 +1,34 @@
+{
+  "id": "national-scholarship-higher-education-st-2021",
+  "name": "National Scholarship for Higher Education of ST Students (Top Class Scholarship Scheme)",
+  "provider": "Ministry of Tribal Affairs, Government of India",
+  "official_url": "https://scholarships.gov.in/",
+  "eligible_categories": ["ST"],
+  "max_family_income": 600000,
+  "min_percentage": null,
+  "levels": ["UG", "PG"],
+  "courses": null,
+  "states": null,
+  "gender": null,
+  "requires_disability": false,
+  "requires_minority": false,
+  "unchecked_criteria": [
+    "Must be admitted on merit to a premier institution notified by the Ministry of Tribal Affairs (list of 265 institutions), in an approved full-time course",
+    "Students admitted through management quota in private institutions are not eligible",
+    "Must not receive another Central or State Government scholarship for the same study, and cannot claim the Ministry's Post-Matric Scholarship for the same study",
+    "Income rules: gross income from all sources is counted; for married candidates spousal income is included; if only one parent is alive only that parent's income counts; income of earning siblings is not counted; the income limit does not apply to orphans supported by a guardian"
+  ],
+  "benefit": "Full admission and tuition fee and other non-refundable charges in government institutions (up to Rs 2,50,000 per year in private institutions), plus Rs 5,000 per year for books and stationery, Rs 3,000 monthly stipend, and a one-time Rs 45,000 for a computer and accessories. Continues until the course ends, subject to satisfactory academic performance.",
+  "deadline": null,
+  "documents": [
+    "ST certificate or PVTG certificate",
+    "Family income certificate",
+    "Fee receipt",
+    "Scanned bank passbook",
+    "Class 12 marksheet (fresh graduate-level applicants) or graduation marksheet (fresh postgraduate-level applicants)",
+    "Last passing semester marksheet (renewal applicants)",
+    "Bonafide certificate issued by the institution"
+  ],
+  "source_text": "PASTE THE EXACT ELIGIBILITY PASSAGE FROM THE ST TOP CLASS SCHOLARSHIP GUIDELINE HERE",
+  "last_verified": null
+}

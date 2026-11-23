@@ -1,0 +1,42 @@
+{
+  "id": "depwd-national-overseas",
+  "name": "DEPwD National Overseas Scholarship for Students with Benchmark Disabilities",
+  "provider": "Department of Empowerment of Persons with Disabilities (DEPwD), Ministry of Social Justice and Empowerment, Government of India",
+  "official_url": "https://depwd.gov.in/",
+  "eligible_categories": null,
+  "max_family_income": 800000,
+  "min_percentage": null,
+  "levels": null,
+  "courses": null,
+  "states": null,
+  "gender": null,
+  "requires_disability": true,
+  "requires_minority": false,
+  "unchecked_criteria": [
+    "Must have a benchmark disability of at least 40% under the RPwD Act 2016, with a valid disability certificate and UDID card or enrolment number",
+    "Indian nationals only; Aadhaar-based authentication is required",
+    "Not more than two children with disabilities of the same parents may receive benefits",
+    "Cannot receive another scholarship or stipend at the same time",
+    "For a Master's abroad: at least 55% in a relevant Bachelor's degree; for a Ph.D. abroad: at least 55% in a relevant Master's degree",
+    "Must hold an admission offer from a foreign institution in the top 500 of the latest QS rankings (exceptions possible for disability studies)",
+    "Must be below 35 years of age on 1 April of the selection year",
+    "Cannot have used government scholarship benefits for the same level of overseas study; available only once in a lifetime",
+    "Diploma, PG diploma and certificate courses are excluded"
+  ],
+  "benefit": "Actual tuition fee, maintenance allowance (USD 15,400/year in USA and other countries, GBP 9,900/year in UK), contingency allowance, airfare, visa fees, medical insurance and other listed allowances. About 20 new awards a year, 30% reserved for girls. Ph.D. up to 4 years; Master's 1 to 3 years.",
+  "deadline": null,
+  "documents": [
+    "Valid disability certificate issued by the competent authority",
+    "UDID card or UDID enrolment number",
+    "Aadhaar number or enrolment number",
+    "Aadhaar-linked bank account details",
+    "Academic certificates and marksheets",
+    "Income certificate",
+    "Foreign university admission offer",
+    "Police verification report",
+    "No Objection Certificate from employer, if employed",
+    "Surety bond and solvency certificates"
+  ],
+  "source_text": "PASTE THE EXACT ELIGIBILITY PASSAGE FROM THE DEPwD GUIDELINE (25 SEPTEMBER 2024) FOR THIS COMPONENT HERE",
+  "last_verified": null
+}

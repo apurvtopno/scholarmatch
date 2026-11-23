@@ -1,0 +1,41 @@
+{
+  "id": "aicte-swanath",
+  "name": "AICTE Swanath Scholarship Scheme for Students",
+  "provider": "All India Council for Technical Education (AICTE), Government of India",
+  "official_url": "https://scholarships.gov.in",
+  "eligible_categories": null,
+  "max_family_income": 800000,
+  "min_percentage": null,
+  "levels": ["UG", "Diploma"],
+  "courses": null,
+  "states": null,
+  "gender": null,
+  "requires_disability": false,
+  "requires_minority": false,
+  "required_circumstances_any": [
+    "orphan",
+    "parent_died_covid",
+    "ward_of_armed_forces_martyr",
+    "ward_of_cpf_martyr",
+    "parent_critical_illness",
+    "parent_died_or_severely_disabled_in_accident"
+  ],
+  "unchecked_criteria": [
+    "Must be studying in regular mode in an AICTE-approved degree or diploma course",
+    "Must not be receiving any Central Government, State Government or AICTE scholarship, or other financial assistance, during the course",
+    "Aadhaar number is mandatory",
+    "A valid State/UT income certificate is required (family income up to Rs 8 lakh per year)"
+  ],
+  "benefit": "Rs 50,000 per year as a lump sum. Duration depends on your year of entry: degree 4/3/2/1 years for 1st/2nd/3rd/4th-year entry; diploma 3/2/1 years for 1st/2nd/3rd-year entry. About 2,000 scholarships a year (1,000 degree, 1,000 diploma). No separate hostel or medical grants.",
+  "deadline": null,
+  "documents": [
+    "Aadhaar number",
+    "Bonafide certificate from your institution",
+    "Class 10 and Class 12 marksheets (degree) or Class 10 or equivalent marksheet (diploma)",
+    "Proof of your category, e.g. death certificate of parent(s), or Shaheed certificate (depends on which category you apply under)",
+    "Income certificate issued by State/UT Government (explicitly required for some categories)",
+    "SC/ST/OBC-NCL category certificate, where applicable"
+  ],
+  "source_text": "PASTE THE EXACT ELIGIBILITY PASSAGE FROM THE SWANATH GUIDELINE PDF (MAY 2025) HERE",
+  "last_verified": null
+}

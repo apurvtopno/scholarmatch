@@ -1,0 +1,31 @@
+{
+  "id": "aicte-pragati-diploma",
+  "name": "AICTE Pragati Scholarship Scheme for Girl Students (Diploma)",
+  "provider": "All India Council for Technical Education (AICTE), Government of India",
+  "official_url": "https://scholarships.gov.in",
+  "eligible_categories": null,
+  "max_family_income": 800000,
+  "min_percentage": null,
+  "levels": ["Diploma"],
+  "courses": null,
+  "states": null,
+  "gender": "female",
+  "requires_disability": false,
+  "requires_minority": false,
+  "unchecked_criteria": [
+    "Must be admitted to the first year of a diploma course in an AICTE-approved institution, or to the second year through lateral entry",
+    "Only a maximum of two girl children per family are eligible",
+    "The gap between passing the qualifying exam and admission must not exceed two years",
+    "Must not receive any other financial assistance, scholarship or stipend during the course"
+  ],
+  "benefit": "Rs 50,000 per year for up to 3 years (2 years for lateral entry). No additional grant for hostel or medical charges.",
+  "deadline": null,
+  "documents": [
+    "Class 10 marksheet or equivalent",
+    "Family income certificate issued by State/UT Government",
+    "Admission proof",
+    "Bank account details"
+  ],
+  "source_text": "PASTE THE EXACT ELIGIBILITY PASSAGE FROM THE DIPLOMA GUIDELINE PDF HERE",
+  "last_verified": null
+}

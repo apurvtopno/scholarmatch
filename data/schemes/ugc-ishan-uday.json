@@ -1,0 +1,46 @@
+{
+  "id": "ugc-ishan-uday",
+  "name": "Ishan Uday Special Scholarship Scheme for North Eastern Region",
+  "provider": "University Grants Commission (UGC), Government of India",
+  "official_url": "https://scholarships.gov.in",
+  "eligible_categories": null,
+  "max_family_income": 449999,
+  "min_percentage": null,
+  "levels": ["UG"],
+  "courses": null,
+  "states": [
+    "Arunachal Pradesh",
+    "Assam",
+    "Manipur",
+    "Meghalaya",
+    "Mizoram",
+    "Nagaland",
+    "Sikkim",
+    "Tripura"
+  ],
+  "gender": null,
+  "requires_disability": false,
+  "requires_minority": false,
+  "unchecked_criteria": [
+    "Parents' annual income must be below Rs 4.5 lakh; an income of exactly Rs 4.5 lakh or more is not eligible",
+    "Must have passed Class 12 (or equivalent, from a recognized board including CBSE, ICSE or NIOS) from a school in the North Eastern Region, and hold a valid domicile certificate of a North Eastern state",
+    "Must be admitted to the first year of your first undergraduate degree in regular full-time mode; open, distance, correspondence and part-time students are not eligible",
+    "Students admitted through the management quota are not eligible",
+    "Must study at an eligible institution (UGC Act Section 2(f) universities and colleges, deemed universities, fully Central or State funded degree-awarding institutions, or Institutions of National Importance)",
+    "Only one scholarship or monetary benefit at a time; if you already receive another, you must declare it and give it up if selected",
+    "Aadhaar-linked, KYC-compliant bank account in your own name is required"
+  ],
+  "benefit": "Rs 8,000 per month for 10 months a year (Rs 80,000 per year), paid by DBT, through the whole first undergraduate degree subject to good conduct, attendance and promotion. About 10,000 scholarships a year, split 50-50 between arts/humanities/social sciences/law/management and science/engineering/medical/technical/agriculture/forestry. Selection is state-wise merit on Class 12 marks.",
+  "deadline": null,
+  "documents": [
+    "Domicile certificate or Permanent Resident Certificate of a North Eastern state",
+    "Income certificate issued by the competent authority",
+    "Class 12 or equivalent marksheet",
+    "Class 10 marksheet",
+    "Admission and bonafide details from the institution",
+    "Aadhaar details",
+    "Aadhaar-linked KYC-compliant bank account details"
+  ],
+  "source_text": "PASTE THE EXACT ELIGIBILITY PASSAGE FROM THE UGC ISHAN UDAY GUIDELINE HERE",
+  "last_verified": null
+}

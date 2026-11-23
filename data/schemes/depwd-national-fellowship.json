@@ -1,0 +1,38 @@
+{
+  "id": "depwd-national-fellowship",
+  "name": "DEPwD National Fellowship for Persons with Benchmark Disabilities (NFPwD)",
+  "provider": "Department of Empowerment of Persons with Disabilities (DEPwD), Ministry of Social Justice and Empowerment, Government of India",
+  "official_url": "https://depwd.gov.in/",
+  "eligible_categories": null,
+  "max_family_income": null,
+  "min_percentage": null,
+  "levels": null,
+  "courses": null,
+  "states": null,
+  "gender": null,
+  "requires_disability": true,
+  "requires_minority": false,
+  "unchecked_criteria": [
+    "Must have a benchmark disability of at least 40% under the RPwD Act 2016, with a valid disability certificate and UDID card or enrolment number",
+    "Indian nationals only; Aadhaar-based authentication is required",
+    "Not more than two children with disabilities of the same parents may receive benefits",
+    "Cannot receive another scholarship or stipend at the same time",
+    "Must pursue a regular full-time M.Phil. or Ph.D. in Science, Humanities or Social Sciences at a recognized institution",
+    "Selection is based on UGC-NET-JRF or UGC-CSIR-NET-JRF merit",
+    "Government, university and college employees (including those on study leave) are not eligible",
+    "Can be awarded only once in a lifetime"
+  ],
+  "benefit": "Monthly fellowship Rs 37,000 (JRF, first two years) then Rs 42,000 (SRF, up to three more years), yearly contingency grant, Rs 2,000/month escort or reader assistance, and house rent allowance where hostel is not provided. About 200 fellowships a year (150 via UGC-NET-JRF, 50 via UGC-CSIR-NET-JRF).",
+  "deadline": null,
+  "documents": [
+    "Valid disability certificate issued by the competent authority",
+    "UDID card or UDID enrolment number",
+    "Aadhaar number or enrolment number",
+    "Aadhaar-linked bank account details",
+    "Academic certificates and marksheets",
+    "UGC-NET-JRF or UGC-CSIR-NET-JRF result",
+    "Admission proof for M.Phil. or Ph.D."
+  ],
+  "source_text": "PASTE THE EXACT ELIGIBILITY PASSAGE FROM THE DEPwD GUIDELINE (25 SEPTEMBER 2024) FOR THIS COMPONENT HERE",
+  "last_verified": null
+}

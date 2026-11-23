@@ -1,0 +1,41 @@
+{
+  "id": "depwd-top-class-education",
+  "name": "DEPwD Top Class Education Scholarship for Students with Benchmark Disabilities",
+  "provider": "Department of Empowerment of Persons with Disabilities (DEPwD), Ministry of Social Justice and Empowerment, Government of India",
+  "official_url": "https://depwd.gov.in/",
+  "eligible_categories": null,
+  "max_family_income": 800000,
+  "min_percentage": null,
+  "levels": [
+    "UG",
+    "PG"
+  ],
+  "courses": null,
+  "states": null,
+  "gender": null,
+  "requires_disability": true,
+  "requires_minority": false,
+  "unchecked_criteria": [
+    "Must have a benchmark disability of at least 40% under the RPwD Act 2016, with a valid disability certificate and UDID card or enrolment number",
+    "Indian nationals only; Aadhaar-based authentication is required",
+    "Not more than two children with disabilities of the same parents may receive benefits",
+    "Cannot receive another scholarship or stipend at the same time",
+    "Must study a graduate or postgraduate degree or diploma at an institution notified by DEPwD (premier institutions list)",
+    "Distance-learning, part-time and weekend courses are not eligible",
+    "Can be awarded only once to an individual"
+  ],
+  "benefit": "Tuition and admission fee reimbursement up to Rs 1,90,000/year, miscellaneous fees up to Rs 10,000/year, one-time Rs 45,000 for computer or laptop and Rs 30,000 for aids and assistive devices in the first year, maintenance allowance Rs 3,000/month (hosteller) or Rs 1,500/month (day scholar), special allowance Rs 2,000/month, book allowance Rs 5,000/year. About 300 slots a year, 50% reserved for girls.",
+  "deadline": null,
+  "documents": [
+    "Valid disability certificate issued by the competent authority",
+    "UDID card or UDID enrolment number",
+    "Aadhaar number or enrolment number",
+    "Aadhaar-linked bank account details",
+    "Academic certificates and marksheets",
+    "Income certificate",
+    "Admission or bonafide certificate",
+    "Tuition fee receipt"
+  ],
+  "source_text": "PASTE THE EXACT ELIGIBILITY PASSAGE FROM THE DEPwD GUIDELINE (25 SEPTEMBER 2024) FOR THIS COMPONENT HERE",
+  "last_verified": null
+}

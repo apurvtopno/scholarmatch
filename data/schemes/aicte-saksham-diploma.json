@@ -1,0 +1,32 @@
+{
+  "id": "aicte-saksham-diploma",
+  "name": "AICTE Saksham Scholarship Scheme for Specially-Abled Students (Diploma)",
+  "provider": "All India Council for Technical Education (AICTE), Ministry of Education, Government of India",
+  "official_url": "https://scholarships.gov.in",
+  "eligible_categories": null,
+  "max_family_income": 800000,
+  "min_percentage": null,
+  "levels": ["Diploma"],
+  "courses": null,
+  "states": null,
+  "gender": null,
+  "requires_disability": true,
+  "requires_minority": false,
+  "unchecked_criteria": [
+    "Must have a disability of at least 40% (disability certificate required)",
+    "Must be admitted to the first year of a diploma course in an AICTE-approved institution, or to the second year through lateral entry",
+    "The gap between passing the qualifying exam and admission must not exceed two years",
+    "Must not receive any other financial assistance, scholarship or stipend during the course"
+  ],
+  "benefit": "Rs 50,000 per year as a lump sum for up to 3 years (2 years for lateral entry). No separate grants for hostel or medical expenses.",
+  "deadline": null,
+  "documents": [
+    "Valid income certificate issued by State/UT Government",
+    "Disability certificate confirming at least 40% disability",
+    "Qualifying examination marksheet",
+    "Admission proof to an AICTE-approved diploma course",
+    "Bank account details"
+  ],
+  "source_text": "PASTE THE EXACT ELIGIBILITY PASSAGE FROM THE SAKSHAM DIPLOMA GUIDELINE PDF HERE",
+  "last_verified": null
+}
