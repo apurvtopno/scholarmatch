@@ -3,3 +3,11 @@ __pycache__/
 *.pyc
 .env
 data/drafts/.history/
+
+# Local editor history
+.history/
+
+# Virtual environments
+.venv/
+venv/
+data/drafts/
